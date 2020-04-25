@@ -1,0 +1,5 @@
+= Pinger
+
+This was written to provide a 30 second ping test running permanently to demonstrate to Telstra how often their service disconnected and reconnected during the day.
+
+Not run any more but maybe useful still
