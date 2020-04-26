@@ -1,0 +1,19 @@
+= Periodic speedtests to gather evidence of cable performance
+
+At some point the NBN is going to become mandatory here and Telstra is probably going to be wanting to charge more money for less performance while using exactly the same cables.
+
+Some evidence of performance over time may help with the inevitable arguments.
+
+=== ToDo
+
+[arabic]
+* connect to speedtest periodically and gather the ping, download and upload data [done]
+* should periodically be configurable? hard coded to 3h atm [done]
+* record this to a file(s) with appropriate timestamps [done]
+
+===  Questions/Thoughts
+[arabic]
+* Should this run by iteself all the time? What happens after reboots?
+* Is there a default scheduler in win10 that could run this at intervals?
+* Will the use of vpns on other machines during the work day impact the performance from this one
+* how to save the file remotely
